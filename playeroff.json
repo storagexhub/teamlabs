@@ -2,5 +2,6 @@
     "admob": true,
     "applovin": true,
     "enter_ad": true,
-    "exit_ad": true
+    "exit_ad": true,
+    "enable_ads": true
 }
